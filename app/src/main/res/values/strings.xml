@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P12-TaskManagerWear</string>
+    <string name="add">Add Task</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="title_activity_edit">EditActivity</string>
+</resources>
